@@ -1,3 +1,6 @@
 *.pdf
 *.nc
 *.mat
+
+.virtual_documents/*
+Notebooks/.ipynb_checkpoints/*
